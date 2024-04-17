@@ -4,6 +4,7 @@ from tkinter import ttk
 from openpyxl import load_workbook
 from datetime import datetime
 
+# This is the actual application
 class App(c.CTk):
     def __init__(self):
         super().__init__()

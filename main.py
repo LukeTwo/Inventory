@@ -1,6 +1,6 @@
 import tkinter
 import customtkinter as ctk
-
+# this was ininital setup. Actual application is BookManager.py
 # System Settings
 ctk.set_appearance_mode("Dark")
 #ctk.set_default_color_theme("green")
